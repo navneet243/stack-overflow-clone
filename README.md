@@ -27,5 +27,4 @@ Database - MongoDb
 #### Answers
 ![Screenshot (53)](https://user-images.githubusercontent.com/58473785/180296520-555542d0-03a7-4d85-8adb-ad1a6060f46d.png)
 
-### Demo - 
 
